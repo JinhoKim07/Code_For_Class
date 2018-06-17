@@ -175,7 +175,7 @@ for itr in range(101):
 	print itr
 	while(1):
 
-		if (itr == 0):
+		if (itr == 100):
 			print print_info()
 			print Prob()
 			raw_input()
