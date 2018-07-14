@@ -1,2 +1,0 @@
-model_checkpoint_path: "LetterCNN.ckpt"
-all_model_checkpoint_paths: "LetterCNN.ckpt"
